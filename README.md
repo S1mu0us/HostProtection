@@ -40,8 +40,11 @@
 ### Задание 2
 
 ![installluks](https://github.com/S1mu0us/HostProtection/blob/20afd0e340cadd6728accd8ab8efd83379bffa77/img/installluks.png)
+
 ![init](https://github.com/S1mu0us/HostProtection/blob/20afd0e340cadd6728accd8ab8efd83379bffa77/img/init.png)
+
 ![disk](https://github.com/S1mu0us/HostProtection/blob/20afd0e340cadd6728accd8ab8efd83379bffa77/img/disk.png)
+
 ![device](https://github.com/S1mu0us/HostProtection/blob/20afd0e340cadd6728accd8ab8efd83379bffa77/img/device.png)
 
 ---
