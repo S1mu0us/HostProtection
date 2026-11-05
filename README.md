@@ -1,4 +1,4 @@
-# [Домашнее задание](https://github.com/netology-code/sdb-homeworks/blob/main/13-02.md) к занятию "`Защита хоста`" - `Янин Семён Васильевич`
+# [Задание](https://github.com/netology-code/sdb-homeworks/blob/main/13-02.md) к занятию "`Защита хоста`" 
 
 
 ### Инструкция по выполнению домашнего задания
